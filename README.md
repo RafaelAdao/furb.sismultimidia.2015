@@ -1,5 +1,7 @@
 # Força Palavra: Aplicativo Cooperativo para Interação de Crianças  na fase de Alfabetização
 
+Vídeo de demonstração: https://www.youtube.com/watch?v=W3AnwoxgPiA
+
 Para executar o aplicativo deve-se abrir o arquivo "index.html", localizado na pasta principal do projeto, utilizando o navegador de internet "Google Chrome".
 
 1. O aplicativo apenas é compatível com telas que suportam o recurso "touch", não sendo possível jogar utilizando o mouse
